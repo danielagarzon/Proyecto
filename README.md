@@ -1,2 +1,3 @@
 # Proyecto
 Proyecto ciencias de la computacion
+El programa consiste en un entrenador personal que ayuda a planear y a hacer las rutinas de ejercicio, y controlar las calorías. Además adjunto un video de como funciona el programa y el trabajo escrito. Instrucciones: Para que el programa corra también deben estar descargadas las bases de datos información y alimentos que están en la misma carpeta en caso de que no esten descargados comentar la línea 60 para que compile y luego crear las bases de datos desde la aplicación que da la opción y luego ya descomentarla para poder usar la opción de resultado. 
